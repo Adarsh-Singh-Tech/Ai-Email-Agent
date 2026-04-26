@@ -685,6 +685,16 @@ SOFTWARE.
 ```
 
 ---
+
+---
+
+# 🔥 Step 4: Add one more line (top of README)
+
+Near project description, add:
+
+```md id="tt3qyk"
+👉 Includes real email preview (.eml) with local viewer support
+View raw load (file:///private/var/folders/fj/10t080jn6kg8fgrp1xz91pkc0000gn/T/tmpm0r7y462.html)
 ---
 
 ## 📜 Documentation & Policies
