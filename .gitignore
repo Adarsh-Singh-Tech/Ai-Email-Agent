@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+env/
+
+# Secrets
+.env
+config.py
+
+# Mac
+.DS_Store
+
+# Logs
+*.log

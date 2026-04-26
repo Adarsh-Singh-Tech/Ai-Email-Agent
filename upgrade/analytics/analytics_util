@@ -1,0 +1,5 @@
+def track_email_sent():
+    print("Email sent tracked")
+
+def track_dashboard_view():
+    print("Dashboard viewed")

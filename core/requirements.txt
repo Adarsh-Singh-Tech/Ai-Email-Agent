@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+feedparser
+schedule
+python-dotenv
+openai
