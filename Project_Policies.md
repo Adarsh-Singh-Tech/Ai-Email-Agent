@@ -654,7 +654,14 @@ Amendments to security policies require explicit review and sign-off before merg
 | v1.0.0 | 2026 | Adarsh Singh | Initial policy document — covers all eight policy areas |
 
 ---
+---
 
+## 🔗 Related Documents
+
+- 📘 [Project README](Readme.md) — Overview, setup, and usage  
+- 🔁 [Versioning Strategy](Version.md) — Version control and release workflow  
+
+---
 <div align="center">
 
 **AI Email Agent — Project Policies & Best Practices**
