@@ -689,8 +689,8 @@ SOFTWARE.
 
 ## 📜 Documentation & Policies
 
-- 📄 [License](LICENSE.md) — Terms of use and permissions  
-- 🔁 [Versioning Strategy](VERSION.md) — Release process and version control  
+- 📄 [License](Project_Policies.md) — Terms of use and permissions  
+- 🔁 [Versioning Strategy](Version.md) — Release process and version control  
 
 ---
 <div align="center">
